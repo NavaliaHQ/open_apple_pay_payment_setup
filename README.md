@@ -2,12 +2,9 @@ Sure! Here's the complete `README.md` file content you can copy and save directl
 
 ---
 
-````md
-# open_apple_pay_payment_setup
-
 A Flutter plugin that opens the **Apple Pay payment setup screen** when Apple Pay is not yet configured on the user's device.
 
-> **Note**: This plugin currently supports **iOS only** and is useful when you need to prompt users to configure Apple Pay before proceeding with a payment flow. It does **not** support Checkout transactions—only Vault (e.g., tokenizing Apple Pay for later use).
+> **Note**: This plugin currently supports **iOS only** and is useful when you need to prompt users to configure Apple Pay before proceeding with a payment flow.
 
 ---
 
@@ -27,7 +24,7 @@ Add this to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  open_apple_pay_payment_setup: ^0.0.1
+  open_apple_pay_payment_setup: ^1.0.0
 ````
 
 Then run:

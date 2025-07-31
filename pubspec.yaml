@@ -1,6 +1,6 @@
 name: open_apple_pay_payment_setup
-description: "A new Flutter plugin project."
-version: 1.0.0
+description: A Flutter plugin that opens the Apple Pay payment setup screen on iOS devices. Useful for prompting users to configure Apple Pay before initiating payment flows.
+version: 1.0.0+2
 homepage: https://github.com/NavaliaHQ/open_apple_pay_payment_setup
 
 environment:
